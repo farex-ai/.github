@@ -20,4 +20,4 @@ It runs every task through the right specialist and a wrong one, then shows you 
 
 We're starting with specialist prompts on one local model. The goal is to test routing across multiple models and agents.
 
-<sub>Early days. The tool isn't public yet. Earlier experiments are in <a href="https://github.com/farex-ai/research">research</a>. MIT licensed.</sub>
+<sub>Early days. The tool is in <a href="https://github.com/farex-ai/farex">farex</a>, earlier experiments are in <a href="https://github.com/farex-ai/research">research</a>. MIT licensed.</sub>
