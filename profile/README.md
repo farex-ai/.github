@@ -14,7 +14,7 @@ More AI systems split work between specialists, with a router deciding who gets 
 It runs every task through the right specialist and a wrong one, then shows you what the wrong route cost in success, latency and tokens.
 
 - **Scored by the task.** Each answer is checked against the task's own requirements.
-- **Reviewed blind.** A person marks the answers before anyone sees a number.
+- **Reviewed blind.** Answers are marked on a blinded sheet before anyone sees a number.
 - **Repeatable.** Inputs are frozen and hashed. A run refuses to start if anything changed.
 - **Sandboxed.** Model-written code only runs in a locked-down container.
 
